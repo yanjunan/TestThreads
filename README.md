@@ -31,6 +31,8 @@ a) For each company, find the total $ amount held by the firm
 b) For each company, find their "Total Stock Limit" - the limit on how much $ of the stock can be held at a time
 
 c) Display breach, warnings for total stock value held exceeding 80%, 100% of their respective total stock limits
+[limit_monitoring_workflow_diagram.pdf](https://github.com/user-attachments/files/24690500/limit_monitoring_workflow_diagram.pdf)
+
 
 Results Table
 
