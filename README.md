@@ -1,4 +1,4 @@
-Stock-Trading-Limit-Monitoring
+# Stock-Trading-Limit-Monitoring
 Background: This project is to build a Proof of Concept (POC) of trading limit monitoring work-flow. In a typical financial institute, this work flow is usually used by Capital Markets middle offices to monitor Front Office trading activities and ensure trading activities are within defined limits. This is part of daily Global Risk Management operations. In this project, Excel, mySQL and PowerBI reports are used to prepare, store, transform, export and display data. To complete this project, fundamental stock trading knowledge and data analysis skills are required.
 
 Break downs: A typical trading floor limit monitoring process includes
