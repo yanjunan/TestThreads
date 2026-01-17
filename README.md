@@ -33,6 +33,7 @@ b) For each company, find their "Total Stock Limit" - the limit on how much $ of
 c) Display breach, warnings for total stock value held exceeding 80%, 100% of their respective total stock limits
 [limit_monitoring_workflow_diagram.pdf](https://github.com/user-attachments/files/24690500/limit_monitoring_workflow_diagram.pdf)
 
+<img width="1355" height="558" alt="image" src="https://github.com/user-attachments/assets/465d4043-be2f-4166-8ae2-c8a5704796d9" />
 
 Results Table
 
